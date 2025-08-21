@@ -1,4 +1,4 @@
-# Data-Management
+# Data-Manager
 A simple renaming tool for production and dailies workflows, inspired by Netflix’s best practices.
 ## What It Does
 This app enforces consistent, unique naming for Original Camera Files (OCF), Original Audio Files (OAF), and dailies outputs—eliminating duplicate filenames that can disrupt post-production.
